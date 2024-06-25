@@ -9,3 +9,4 @@ This is a simple ToDo application built using React Native. The app allows users
 - **Delete a Task**: Users can delete a task directly from the task list by tapping a delete button.
 - **Task Verification**: The "Add Task" button is disabled until the task title input field is not empty to prevent adding tasks without a title.
 
+Video Link: https://www.loom.com/share/e9245cfad3704aecb1d1468900fd816f?sid=4e887909-2786-4c04-8bab-d9b80797a7ce
